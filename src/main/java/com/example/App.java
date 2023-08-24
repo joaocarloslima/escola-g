@@ -21,7 +21,7 @@ public class App extends Application {
         stage.setTitle("Escola");
         // stage.setResizable(false);
         stage.setMinWidth(300);
-        //stage.setAlwaysOnTop(true);
+        // stage.setAlwaysOnTop(true);
         // stage.setOpacity(0.5);
         stage.setScene(scene);
         stage.show();
